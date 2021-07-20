@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azhar Raheem.
 - 👀 I’m interested in developing New Application
-- 🌱 I’m currently learning .Net Core and Web Api.
+- 🌱 I’m currently learning .Net Core , Web Api and Web Services.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach me using : azharraheem992@gmail.com
 
